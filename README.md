@@ -72,7 +72,7 @@ Champion : Md. Muntasir Hossain (0242320005341689, N, SWE)
 2nd Runner-Up : Shahriar Ahmed Shovon (232-15-888, Q, CSE)
 ```
 ````
-Special Thanks to Sabbir Ahmed Mridha, Syed Ahsanul Huque Nahid ,Nesar Ahmed and Kh Sadman Sakib.
+Special Thanks to Sabbir Ahmed Mridha and Nesar Ahmed.
 ````
 
 ### Judging and Panel 
